@@ -149,7 +149,7 @@ h5{
   height: 700px;
   border: 20px;
   border-color: chartreuse;
-  background-image:url("rc.jpg");
+  background-image:url("png.jpg");
 
   text-align: center;
   cursor: pointer;
@@ -171,7 +171,5 @@ h5{
 
 }
 h6{
-
-background-image:url("rr.jpg");
 
 }
